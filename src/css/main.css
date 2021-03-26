@@ -1,0 +1,9 @@
+.box-card {
+    width: 480px;
+}
+
+.card-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
